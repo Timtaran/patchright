@@ -8,8 +8,6 @@ on:
         description: 'Playwright Version'
         default: ''
   # running every hour
-  schedule:
-    - cron: '48 * * * *'
 
 
 permissions:
